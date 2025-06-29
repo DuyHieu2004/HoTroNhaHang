@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # doan_nhom_cuoiky
 
 A new Flutter project.
